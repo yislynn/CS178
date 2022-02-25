@@ -1,0 +1,17 @@
+$$
+\begin{aligned}\\
+&\begin{array}{ccccc}
+\hline \hline \text { (2, 2) } & \text { (4, 8) } & \text { a value } & \text { b value } & \text { c value } \\
+\hline 
+\text { + } & \text { + } & \text { + } & 0 & 0 \\
+\text { + } & \text { + } & \text { - } & -1 & 4 \\
+\text { + } & \text { - } & \text { + } & 2 & -1 \\
+\text { + } & \text { - } & \text { - } & -3 & 1 \\
+\text { - } & \text { + } & \text { + } & 0 & 0 \\
+\text { - } & \text { + } & \text { - } & -1 & -1 \\
+\text { - } & \text { - } & \text { + } & 2 & -1 \\
+\text { - } & \text { - } & \text { - } & -1 & -1 \\
+\hline
+\end{array}
+\end{aligned}
+$$
